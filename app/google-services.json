@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "785179230817",
+    "project_id": "ess-project-4b850",
+    "storage_bucket": "ess-project-4b850.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785179230817:android:d97f77b900cde432afa020",
+        "android_client_info": {
+          "package_name": "com.haemilsoft.encare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785179230817-97e22phrbb8i1keo9gbrgnk37ov88rm9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBza-9G2EK97hGzR38yaVg3E8nQUzCWPTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785179230817-97e22phrbb8i1keo9gbrgnk37ov88rm9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
